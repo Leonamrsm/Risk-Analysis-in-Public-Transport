@@ -23,3 +23,10 @@ The objective of this work is to analyze the data and build graphs that answer t
 8. In 2017, in which month were there more incidents with the elderly (Elderly)?
 9. Considering the Operator, what is the distribution of incidents over time?
 10. What is the most common type of incident with cyclists?
+
+Below are graphs that were obtained in order to answer the first 3 questions:
+
+### 1- What is the number of incidents by gender?
+
+### 2. What age group was most involved in the incidents?
+### 3. What is the percentage of incidents by type of event (Incident Event Type)?
