@@ -1,5 +1,7 @@
 # Risk-Analysis-in-Public-Transport
-Analysis of a dataset of traffic incidents using Spark SQL and graphs
+Analysis of a dataset of traffic incidents using Spark SQL and graphs.
+
+This project is part of the Data Science Academy's Data Scientist Training (https://www.datascienceacademy.com.br/).
 
 Which traffic incidents occur most frequently? What age group is most involved in traffic incidents? What is the most common event in incidents? Are passengers or pedestrians the main victims of incidents?
 
