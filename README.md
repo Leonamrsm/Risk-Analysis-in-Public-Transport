@@ -8,3 +8,18 @@ These and other questions are the focus of analysis in this project, where we pr
 For the construction of this project, the dataset available for download at the link below was used:
 
 https://data.world/makeovermonday/2018w51
+
+## Business Questions
+
+The objective of this work is to analyze the data and build graphs that answer the 10 questions below:
+
+1. What is the number of incidents by gender?
+2. What age group was most involved in the incidents?
+3. What is the percentage of incidents by type of event (Incident Event Type)?
+4. How did incidents per month evolve over time?
+5. When the incident was “Collision Incident” in which month were there the highest number of incidents involving females?
+6. What was the average number of incidents per month involving children (Child)?
+7. Considering the incident description as “Injuries treated on scene” (Injury Result Description column), what is the total number of incidents involving males and females?
+8. In 2017, in which month were there more incidents with the elderly (Elderly)?
+9. Considering the Operator, what is the distribution of incidents over time?
+10. What is the most common type of incident with cyclists?
