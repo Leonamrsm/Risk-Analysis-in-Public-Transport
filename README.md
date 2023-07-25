@@ -28,5 +28,12 @@ Below are graphs that were obtained in order to answer the first 3 questions:
 
 ### 1- What is the number of incidents by gender?
 
+![](img/plot1.png)
+
 ### 2. What age group was most involved in the incidents?
+
+![](img/plot2.png)
+
 ### 3. What is the percentage of incidents by type of event (Incident Event Type)?
+
+![](img/plot3.png)
